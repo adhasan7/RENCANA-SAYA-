@@ -1,0 +1,10 @@
+1. bisa html
+2. css
+javascrip
+framewok css
+framework javascript
+php
+oop php
+mvc php
+framework ci
+framework laravel
