@@ -11,3 +11,4 @@ framework laravel
 bisa keterima kerja sebagai programmer
 dapat gaji
 nikah
+punya anak
