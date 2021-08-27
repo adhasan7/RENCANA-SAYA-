@@ -8,3 +8,6 @@ oop php
 mvc php
 framework ci
 framework laravel
+bisa keterima kerja sebagai programmer
+dapat gaji
+nikah
